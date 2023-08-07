@@ -8,7 +8,6 @@
 ## Specification
 
 - Node V.16
-- TypeScript
 - React V.18.2.0
 
 ## How To Run :
